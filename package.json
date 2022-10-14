@@ -10,7 +10,6 @@
     "serve": "webpack serve --config webpack.dev.js --open",
     "dev": "webpack --config webpack.dev.js",
     "test": "jest",
-    "test:all": "ts-jest --watchAll",
     "prod": "webpack --config webpack.prod.js",
     "lint": "eslint .",
     "lint:fix": "eslint --fix",
